@@ -1,0 +1,17 @@
+div {
+	border:2px solid orange;
+	display: block;
+	width: 250px;
+	
+}
+
+h3{
+	padding: 10px;
+	text-align: left;
+	font-size: 20px;
+}
+p{
+	padding: 10px;
+	font-size: 20px;
+
+}
